@@ -5,7 +5,9 @@
   --header-height: 3rem;
   --font-semi: 600;
 }
-
+#isiclogo{
+  display: none !important;
+}
 /*===== Colores =====*/
 :root{
   --first-color: #0fad98;
